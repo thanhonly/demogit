@@ -1,5 +1,5 @@
 .pagination-cards .current {
-	z-index: 3;
+	z-index: 4;
 	color: #fff !important;
 	cursor: default;
 	background-color: #00B5B8;
